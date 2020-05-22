@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  tfcli:
+    image: hashicorp/terraform:light
+    volumes:
+      - .:/app
+    working_dir: /app
+    env_file: .env
+    entrypoint: ""
+    command: sh
