@@ -9,4 +9,5 @@
   - [x] [Change Infrastructure](https://learn.hashicorp.com/terraform/getting-started/change)
   - [x] [Destroy Infrastructure](https://learn.hashicorp.com/terraform/getting-started/destroy)
   - [x] [Resource Dependencies](https://learn.hashicorp.com/terraform/getting-started/dependencies)
-  - [ ] [Provision](https://learn.hashicorp.com/terraform/getting-started/provision)
+  - [x] [Provision](https://learn.hashicorp.com/terraform/getting-started/provision)
+  - [x] [Input Variables](https://learn.hashicorp.com/terraform/getting-started/variables)
