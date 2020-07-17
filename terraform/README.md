@@ -11,3 +11,4 @@
   - [x] [Resource Dependencies](https://learn.hashicorp.com/terraform/getting-started/dependencies)
   - [x] [Provision](https://learn.hashicorp.com/terraform/getting-started/provision)
   - [x] [Input Variables](https://learn.hashicorp.com/terraform/getting-started/variables)
+  - [x] [Output Variables](https://learn.hashicorp.com/terraform/getting-started/outputs)
