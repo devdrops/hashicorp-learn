@@ -12,3 +12,5 @@
   - [x] [Provision](https://learn.hashicorp.com/terraform/getting-started/provision)
   - [x] [Input Variables](https://learn.hashicorp.com/terraform/getting-started/variables)
   - [x] [Output Variables](https://learn.hashicorp.com/terraform/getting-started/outputs)
+  - [x] [Remote State Storage](https://learn.hashicorp.com/terraform/getting-started/remote)
+  - [x] [Next Steps](https://learn.hashicorp.com/terraform/getting-started/next-steps)
