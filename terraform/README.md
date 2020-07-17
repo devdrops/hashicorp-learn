@@ -2,7 +2,7 @@
 
 ## Capítulos
 
-- Getting Started - AWS
+- [Getting Started - AWS](https://learn.hashicorp.com/terraform#getting-started)
   - [x] [Introduction to Infrastructure as Code with Terraform](https://learn.hashicorp.com/terraform/getting-started/intro)
   - [x] [Install Terraform](https://learn.hashicorp.com/terraform/getting-started/install)
   - [x] [Build Infrastructure](https://learn.hashicorp.com/terraform/getting-started/build)
@@ -14,3 +14,6 @@
   - [x] [Output Variables](https://learn.hashicorp.com/terraform/getting-started/outputs)
   - [x] [Remote State Storage](https://learn.hashicorp.com/terraform/getting-started/remote)
   - [x] [Next Steps](https://learn.hashicorp.com/terraform/getting-started/next-steps)
+- [Operations and Development Tracks](https://learn.hashicorp.com/terraform#operations-and-development)
+  - Organize Configuration with Modules
+    - [ ] [Modules Overview](https://learn.hashicorp.com/terraform/modules/modules-overview)
